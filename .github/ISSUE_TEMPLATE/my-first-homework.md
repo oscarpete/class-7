@@ -17,5 +17,5 @@ assignees: ''
   - [ ] (If you have windows) [Git For Windows](https://gitforwindows.org/): This will allow you to use the same terminal commands & tools as Linux or Mac computers.
 - [ ] (computer) Start an HYF Directory
 - [ ] [My bio on the class repo](https://github.com/hackyourfuturebelgium/class-7/blob/master/student-bios/Mhammadmusa.md)
-- [ ] [Hack My Future](https://github.com/your-user-name/hack-my-future)
+- [ ] [Hack My Future](https://github.com/mhammadmusa/hack-my-future)
 - [ ] [Markdown Home Page](https://your-user-name.github.io) - my multi-page markdown home portfolio, live on github pages
