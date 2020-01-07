@@ -21,11 +21,10 @@
 
 Education
 ----------------------------
-**Bachelor of Science in Mathematics**  
-Bogazici University
-
-**Master of Science in Education of Mathematics**  
-Istanbul University
+Degree| Place | Year
+-------|-------|-----
+**Bachelor of Science in Mathematics** | Bogazici University | 2006
+**Master of Science in Education of Mathematics** | Istanbul University | 2008
 
 <p>&nbsp;</p>
 
